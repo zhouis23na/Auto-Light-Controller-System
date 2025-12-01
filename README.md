@@ -53,6 +53,7 @@ Sistem ini dilengkapi dengan OLED Display, LED RGB indikator, Buzzer, serta Emer
 | **Buzzer**          | GPIO 10 | Emergency notification      |
 
 **Wiring Diagram**
+
 <img width="755" height="723" alt="Cuplikan layar 2025-12-01 011739" src="https://github.com/user-attachments/assets/9e121361-1eb4-4e9c-89c3-63ece1578b7f" />
 
 ## 🧠 Program Implementation Overview
