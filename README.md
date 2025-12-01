@@ -74,7 +74,7 @@ Digunakan untuk mengirim data komprehensif pembacaan LDR melalui Queue.
 - Mutex: `mutexShared`
 - Semaphore: `semOLED`
 
-## 3. Task Descriptions
+**3. Task Descriptions**
 **TaskSensor**
 - Membaca LDR setiap 200 ms
 - Mengirim data ke Core 1 via Queue
